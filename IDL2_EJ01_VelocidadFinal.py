@@ -4,7 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyP48ipLWOryQpA8pMtBF+R+",
+      "authorship_tag": "ABX9TyNKqB+MSji7iRvDrNl19OKZ",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -66,6 +66,15 @@
         "print(f\"Tiempo: {t} segundos\")\n",
         "print(f\"Velocidad final: {vf} m/s\")"
       ]
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "s-y7Shs-0WdD"
+      },
+      "execution_count": null,
+      "outputs": []
     }
   ]
 }
